@@ -1,0 +1,53 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_072D01BF_42FB_7BAB_41C6_6540A24D4C57.url = https://jennaandkaia.co.id/product-category/madelief/
+PopupWebFrameBehaviour_042AC048_42FB_98D4_41B1_ACA9A97795B2.url = https://jennaandkaia.co.id/product-category/madelief/
+LinkBehaviour_5733581B_4299_686B_4188_96229E504E44.source = https://shopee.co.id/Tunik-cat.11042684.11042697.11042698
+LinkBehaviour_569FB4E9_4299_B9D4_41AB_9F5731B092FF.source = https://shopee.co.id/Tunik-cat.11042684.11042697.11042698
+LinkBehaviour_57B84AE5_4298_A9DC_41AC_0861197103B3.source = https://shopee.co.id/Tunik-cat.11042684.11042697.11042698
+LinkBehaviour_563ED4E8_429B_99D5_419B_485CDA731048.source = https://shopee.co.id/Tunik-cat.11042684.11042697.11042698
+LinkBehaviour_71D58C86_4288_A85D_419A_CCE11F1A4A2E.source = https://wa.me/6281320001985
+LinkBehaviour_6A8E22FF_4289_79AB_41B3_11DA7199C770.source = https://wa.me/6281320001985
+PopupWebFrameBehaviour_56515F8F_428B_A86B_41CA_51BC036B2AE1.url = //www.youtube.com/embed/sgZiDDeAmlY?si=P8E6cznj9a3qxdYi&t=14
+
+## Hotspot
+
+### Text
+QuadHotspotPanoramaOverlayTextImage_7C2684D9_42F9_99F7_41A5_165CA49A1047.text = NEW PRODUCT
+
+## Media
+
+### Audio
+audiores_0C73339C_4288_986D_41C1_14D740511633.mp3Url = media/audio_0C950193_4288_F874_41CB_2DAD2E74C9D8_en.mp3
+
+### Image
+imlevel_099BC508_42F8_9854_41C0_8D16D9942762.url = media/panorama_4D7C2B72_42B7_68B5_41B6_C679B9A6B9FA_HS_o9tfik64_en.png
+
+### Title
+panorama_5309E24D_42B8_98EF_41A1_EFBE698FB63E.label = 1
+panorama_4D7C2B72_42B7_68B5_41B6_C679B9A6B9FA.label = 2
+panorama_4D7E0453_42B7_78F4_41CF_166D5D49C1D0.label = 3
+panorama_4D7D7D9C_42B7_686C_41CF_CF5D4DB2DCB5.label = 4
+video_59EC2256_4298_98FD_41C0_9E6D3B1D79D5.label = aliyah
+
+### Video
+videolevel_6A4DDCD9_428B_A9F7_41B0_804986F41785.url = media/video_59EC2256_4298_98FD_41C0_9E6D3B1D79D5_en.mp4
+videolevel_6A4DDCD9_428B_A9F7_41B0_804986F41785.posterURL = media/video_59EC2256_4298_98FD_41C0_9E6D3B1D79D5_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Image
+Image_73EBA7FF_4288_A7AB_4194_C4E909CD1594.url = skin/Image_73EBA7FF_4288_A7AB_4194_C4E909CD1594_en.png
+Image_73EBA7FF_4288_A7AB_4194_C4E909CD1594_mobile.url = skin/Image_73EBA7FF_4288_A7AB_4194_C4E909CD1594_mobile_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Alliyah Hijab
